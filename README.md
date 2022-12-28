@@ -6,9 +6,11 @@ Right hand side character controlled by WASD for movement and shoot with F
 Left hand side character controlled by arrow keys for movement and shoot with Space Bar
 
 Launch when in folder by writing in terminal:
-'''python
-python3 pygame2.py
-'''
 
+`python3 pygame2.py`
 
-pygame1.py does not have the second player
+Full Code:
+
+[**pygame2.py**](pygame2.py)
+
+[**pygame1.py**](pygame1.py)  does not have the second player
