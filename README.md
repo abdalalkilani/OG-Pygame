@@ -11,6 +11,6 @@ Launch when in folder by writing in terminal:
 
 Full Code:
 
-[**pygame2.py**](pygame2.py)
+[**pygame2.py**](PyGames/pygame2.py)
 
-[**pygame1.py**](pygame1.py)  does not have the second player
+[**pygame1.py**](PyGames/pygame1.py)  does not have the second player
